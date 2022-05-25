@@ -4,7 +4,7 @@
 <p>🎯 Minha meta é um dia me tornar um Dev Full-stack e realizar projetos no exterior</p>
 
 <div align="center">
-  <a href="https://github.com/LukeR0C">
+  <a href="https://github.com/LucasRibeiro4">
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=LukeR0C&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeR0C&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
