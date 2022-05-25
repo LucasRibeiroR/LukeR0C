@@ -1,4 +1,4 @@
-<h2>Oii, eu me chamo Lucas Ribeiro!</h2>
+<h2>Oi, eu me chamo Lucas Ribeiro!</h2>
 <p>🌟 Estou buscando iniciar minha carreira como Desenvolvedor Front-end</p>
 <p>📚 No momento possuo conhecimentos em HTML5(avançado), CSS3(intermediário), PHP(intermediário) e MySQL(básico)</p>
 <p>🎯 Minha meta é um dia me tornar um Dev Full-stack e realizar projetos no exterior</p>
